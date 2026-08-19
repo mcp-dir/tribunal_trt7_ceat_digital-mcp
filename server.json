@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/tribunal_trt7_ceat_digital-mcp",
+  "title": "Tribunal TRT7: Certidão Eletrônica de Ações Trabalhistas (CEAT) - Processos Digitais",
+  "description": "Tribunal TRT7: Certificate Eletrônica de Ações Trabalhistas (CEAT) - Court Cases Digitais, official-",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/tribunal_trt7_ceat_digital-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_tribunal_trt7_ceat_digital"
+    }
+  ]
+}
